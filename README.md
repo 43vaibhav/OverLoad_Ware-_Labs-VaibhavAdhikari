@@ -7,6 +7,7 @@ The objective of these tasks was to understand Python development from both a co
 ---
 
 ## Repository Structure
+.
 ├── Task-1-Python-Developer-Research/
 │ └── Python_Developer_Role.pdf
 ├── Task-2-Web-Interface/
