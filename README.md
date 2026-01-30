@@ -9,19 +9,20 @@ The objective of these tasks was to understand Python development from both a co
 ## Repository Structure
 .
 ├── Task-1-Python-Developer-Research/
-│ └── Python_Developer_Role.pdf
+│   └── Python_Developer_Role.pdf
 ├── Task-2-Web-Interface/
-│ ├── app.py
-│ ├── templates/
-│ ├── static/
-│ └── screenshots/
+│   ├── app.py
+│   ├── templates/
+│   ├── static/
+│   └── screenshots/
 ├── Task-3-CLI-ToDo-App/
-│ └── todo.py
+│   └── todo.py
 ├── Task-4-REST-API/
-│ ├── app.py
-│ ├── database.db
-│ └── README.md
+│   ├── app.py
+│   ├── database.db
+│   └── README.md
 └── README.md
+
 
 
 ---
