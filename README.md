@@ -7,21 +7,28 @@ The objective of these tasks was to understand Python development from both a co
 ---
 
 ## Repository Structure
-.
+Owl-AI-Python-Internship/
+│
 ├── Task-1-Python-Developer-Research/
-│   └── Python_Developer_Role.pdf
+│   └── Python_Developer_Role.pdf      # Research document
+│
 ├── Task-2-Web-Interface/
-│   ├── app.py
-│   ├── templates/
-│   ├── static/
-│   └── screenshots/
+│   ├── app.py                         # Flask / Streamlit app
+│   ├── templates/                     # HTML templates
+│   ├── static/                        # CSS & JS files
+│   └── screenshots/                  # UI screenshots
+│
 ├── Task-3-CLI-ToDo-App/
-│   └── todo.py
+│   └── todo.py                        # CLI To-Do application
+│
 ├── Task-4-REST-API/
-│   ├── app.py
-│   ├── database.db
-│   └── README.md
-└── README.md
+│   ├── app.py                         # REST API application
+│   ├── database.db                   # Database file
+│   └── README.md                     # API documentation
+│
+├── requirements.txt                  # Python dependencies
+└── README.md                          # Main repository documentation
+
 
 
 
