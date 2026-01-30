@@ -7,6 +7,7 @@ The objective of these tasks was to understand Python development from both a co
 ---
 
 ## Repository Structure
+```text
 Owl-AI-Python-Internship/
 │
 ├── Task-1-Python-Developer-Research/
